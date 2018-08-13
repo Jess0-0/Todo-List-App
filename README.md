@@ -5,6 +5,7 @@ This is a simple todo list web application with add and delete feature built usi
 * html
 * css
 * JavaScript
+* Vue.js
 * Bootstrap
 
 
